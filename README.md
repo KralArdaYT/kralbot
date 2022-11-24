@@ -1,0 +1,2 @@
+# kral
+discord kral bot
